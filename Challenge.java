@@ -1,8 +1,4 @@
   
-  
-  
-  
-  
   class Challenge{
   public static String markdownParser(String markdown){ 
    int counter=0; 
